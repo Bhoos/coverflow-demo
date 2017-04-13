@@ -1,3 +1,6 @@
+# Coverflow Demo
+![Demo GIF](./out.gif)
+
 # Installation
 
 ## Checkout the demo project on your computer
