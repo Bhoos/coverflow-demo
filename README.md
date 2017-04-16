@@ -1,4 +1,6 @@
 # Coverflow Demo
+A demo application for the Coverflow component (https://github.com/Bhoos/react-native-coverflow).
+
 ![Demo GIF](./out.gif)
 
 # Installation
